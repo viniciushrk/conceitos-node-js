@@ -97,6 +97,6 @@ app.delete('/projects/:id', (request,response)=>{
     return response.status(204).send();
 });
 
-app.listen(3333,()=>{
+app.listen(process.env.PORT,()=>{
     console.log('🚀 Backend started')
 })
