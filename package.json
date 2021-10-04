@@ -6,7 +6,8 @@
   "author": "viniciushrk",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "nodemonn"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
