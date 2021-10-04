@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
-    "start": "nodemonn"
+    "start": "nodemon"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
